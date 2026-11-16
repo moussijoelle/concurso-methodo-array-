@@ -1,27 +1,26 @@
-﻿# Concurso — clasificación (métodos de array)
+# Concurso — clasificación con arrays
 
-Actualiza la clasificación de un concurso aplicando métodos de array sobre los participantes.
+Parte de una lista de participantes y, al concursar, recalcula la clasificación con métodos de array.
 
 ## Qué hace
 
-- Parte de una lista inicial de participantes
-- Al concursar, recalcula y muestra la clasificación
-- Practica métodos de array en JavaScript
+- Datos iniciales de participantes
+- Botón para actualizar la tabla/clasificación
+- Practica métodos de array en JS
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo.
+Abre `index.html`.
 
 Demo: https://moussijoelle.github.io/concurso-methodo-array-/
 
 ## Cómo lo construí
 
-- HTML + JavaScript (`app.js`)
-- Imágenes en `img/`
+Lógica en `app.js` + HTML de salida.
 
 ## Cómo verificarlo
 
-Sin tests. Pulso concursar y miro que la clasificación se actualice.
+Pulso concursar y miro que la clasificación cambie de forma coherente.
 
 ---
 
